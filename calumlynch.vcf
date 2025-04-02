@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lynch;Calum;;;
+FN:Calum Lynch
+ORG:DDK Positioning
+ADR;TYPE=WORK:BALMORAL BUSINESS PARK,
+WELLINGTON CIRCLE,
+ABERDEEN,
+AB12 3JG
+TITLE:Software Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+441224953138
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:clynch@ddkpositioning.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Location:https://maps.app.goo.gl/2fM6C3V8dGtACXyMA
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/calum-lynch-29002a279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3Hke9s%2FcQyO0COIXRCds3w%3D%3D
+URL;TYPE=GitHub:https://github.com/Tlunch
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:We work with our clients to solve complex positioning challenges around the world, by providing accuracy everywhere. 
+UID:EnBizCard-100841175
+END:VCARD
